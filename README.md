@@ -1,3 +1,5 @@
+<img width="1910" height="986" alt="image" src="https://github.com/user-attachments/assets/81a1068b-6a04-45a0-87d0-75c02147820a" />
+
 # JASS Mizo Lexicon Explorer v2.0
 
 A lightweight desktop application for exploring a large Mizo lexical database built from Mizo-English parallel corpora, Mizo YouTube sentiment data, and a large Mizo text corpus.
